@@ -18,7 +18,7 @@ Atsakymas:
 
 ![atlyginimai](img/2uzduotis.png)
 
-Išvados:
+Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje
 
 
 ### 3. Užduotis
@@ -27,7 +27,7 @@ Atsakymas:
 
 ![apdraustieji](img/3uzduotis.png)
 
-Išvados:
+Išvados: "Lietuvos Respublikos transporto priemonių draudikų biuras" apdraudžia daugiausiai savo darbuotojų, o mažiausiai (Alcon Pharmaceuticals Ltd Atstovybė)
 
 
 ### 4. Užduotis
