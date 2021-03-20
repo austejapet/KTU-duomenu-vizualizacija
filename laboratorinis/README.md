@@ -10,7 +10,7 @@ Atsakymas:
 
 ![histograma](img/1uzduotis.png)
 
-Išvados: daugiausiai žmonių gauna vieną iš mažiausių atlyginimų. Kuo didesnis atlyginimas, tuo mažesnis žmonių kiekis jį gauna.
+Išvados: daugiausiai žmonių gauna vieną iš mažiausių vidutinių atlyginimų. Kuo didesnis vidutinis atlyginimas, tuo mažesnis žmonių kiekis jį gauna.
 
 ### 2. Užduotis
 
@@ -18,7 +18,7 @@ Atsakymas:
 
 ![atlyginimai](img/2uzduotis.png)
 
-Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje(turbūt dėl gautų premijų), o antrame pusmetyje atlyginimai išlieka stabilūs.
+Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje(turbūt dėl gautų premijų), o antrame pusmetyje įmonių atlyginimai išlieka stabilūs, mažai kinta.
 
 
 ### 3. Užduotis
