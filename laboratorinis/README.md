@@ -18,7 +18,7 @@ Atsakymas:
 
 ![atlyginimai](img/2uzduotis.png)
 
-Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje(turbūt dėl gautų premijų), o antrame pusmetyje įmonių atlyginimai išlieka stabilūs, mažai kinta.
+Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje(turbūt dėl gautų premijų), o antrame pusmetyje įmonių atlyginimai išlieka stabilūs, mažai kinta. Didžiausius atlyginimus gauna "nvent Thermal Netherlands B.V. atstovybės" darbuotojai, o mažiausius atlyginimus gauna "Iveco S.p.a. Atstovybės" darbutojai. 
 
 
 ### 3. Užduotis
