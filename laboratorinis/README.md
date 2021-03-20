@@ -10,7 +10,7 @@ Atsakymas:
 
 ![histograma](img/1uzduotis.png)
 
-Išvados:
+Išvados: daugiausiai žmonių gauna vieną iš mažiausių atlyginimų. Kuo didesnis atlyginimas, tuo mažesnis žmonių kiekis jį gauna.
 
 ### 2. Užduotis
 
@@ -18,7 +18,7 @@ Atsakymas:
 
 ![atlyginimai](img/2uzduotis.png)
 
-Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje
+Išvados: visų įmonių vidurkiai labiausiai padidėja pirmajame pusmetyje(turbūt dėl gautų premijų), o antrame pusmetyje atlyginimai išlieka stabilūs.
 
 
 ### 3. Užduotis
@@ -27,7 +27,7 @@ Atsakymas:
 
 ![apdraustieji](img/3uzduotis.png)
 
-Išvados: "Lietuvos Respublikos transporto priemonių draudikų biuras" apdraudžia daugiausiai savo darbuotojų, o mažiausiai (Alcon Pharmaceuticals Ltd Atstovybė)
+Išvados: "Lietuvos Respublikos transporto priemonių draudikų biuras" apdraudžia daugiausiai savo darbuotojų, o mažiausiai "Alcon Pharmaceuticals Ltd Atstovybė".
 
 
 ### 4. Užduotis
