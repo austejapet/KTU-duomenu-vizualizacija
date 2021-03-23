@@ -8,12 +8,14 @@ ui <- fluidPage(titlePanel("949900"),
                      choices = NULL, selected = NULL)
     ),
     mainPanel(tabsetPanel(
-      tabPanel("grafikas", plotOutput("plot")))
+      tabPanel("grafikas", plotOutput("plot")),
+      tabPanel("lentelë", tableOutput("table"))
+      )
     )
     )
   )
 server <- function(input, output, session) {
-  data <- read_csv("laboratorinis/data/lab_sodra.csv")
+  data <- read_csv("https://github.com/austejapet/KTU-duomenu-vizualizacija/raw/main/laboratorinis/data/lab_sodra.csv")
   data<- filter(data, data$ecoActCode==949900)
   updateSelectizeInput(session, "imones_kodas", choices = data$code, server = TRUE)
   
