@@ -34,4 +34,4 @@ Išvados: "Lietuvos Respublikos transporto priemonių draudikų biuras" apdraud�
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny.png)
+![shiny app](img/shiny.png) 
